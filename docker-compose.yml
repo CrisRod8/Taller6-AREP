@@ -1,25 +1,25 @@
 version: '3'
 services:
   roundrobin-container:
-    image: roundrobin-java:latest
+    image: cristianrodri/logroundrobin:latest
     ports:
       - "35000:6000"
     container_name: roundrobin-container
 
   logservices-1:
-    image: logservices:latest
+    image: cristianrodri/logservice:latest
     ports:
       - "35001:6001"
     container_name: logservices-1
 
   logservices-2:
-    image: logservices:latest
+    image: cristianrodri/logservice:latest
     ports:
       - "35002:6001"
     container_name: logservices-2
 
   logservices-3:
-    image: logservices:latest
+    image: cristianrodri/logservice:latest
     ports:
       - "35003:6001"
     container_name: logservices-3
