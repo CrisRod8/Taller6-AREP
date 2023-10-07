@@ -129,3 +129,8 @@ Clonamos nuestro repositorio de github y ejecutamos el docker-compose:
 Finalmente entramos a la siguiente pagina: http://ec2-107-23-51-58.compute-1.amazonaws.com:35000  
 
 ![image](https://github.com/CrisRod8/Taller6-AREP/assets/111186898/fa03ef54-e86f-466a-8ebe-99c5d7a620e5)  
+
+Video de ejecución:  
+
+https://youtu.be/-iHoAQJOO7Y
+
