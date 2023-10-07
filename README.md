@@ -50,6 +50,12 @@ Logservice:
 
 ![image](https://github.com/CrisRod8/Taller6-AREP/assets/111186898/6e691e8f-f285-4993-bd98-3fec60e9d8ce)  
 
+Mongo:  
+
+```
+docker pull mongo
+```
+
 Imagen en docker desktop:  
 
 ![image](https://github.com/CrisRod8/Taller6-AREP/assets/111186898/7070269b-9013-4601-b637-2300fde5eeef)  
